@@ -1,0 +1,3 @@
+Task,Execution time without threading,Execution time with threading
+calc_square,0.83 sec,0.40 sec
+calc_cube,0.81 sec,0.38 sec
