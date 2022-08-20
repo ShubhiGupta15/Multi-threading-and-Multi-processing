@@ -8,7 +8,7 @@ Multithreading is a program execution technique that allows a single process to 
 
 Multiprocessing: CPU Bound tasks-
 
-![Multiprocessing](Images/Multiprocessing (1).png)
+! [Multiprocessing](Images/Multiprocessing (1).png)
 
 Multiprocessing is when multiple processes are spawn from the main process, each having its own CPU and memory. These additional CPUs help increase the computing speed of the system. Processors share processes and resources amongst themselves dynamically so that no processor may sit idle or get overloaded.
 
